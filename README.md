@@ -1,7 +1,8 @@
 # querywords
 a python program querying English words from [dict.youdao.com/app/baidu](dict.youdao.com/app/baidu)
 
-[UranusITS](https://github.com/UranusITS) finish website progress, I finished I/O
+[UranusITS](https://github.com/UranusITS) finish website progress, I finished I/O  
+input from **'in.txt'**
 
 ## Update:
 - add separately I/O from console
